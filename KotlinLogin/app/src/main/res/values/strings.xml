@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotlinLogin</string>
+    <string name="information_cancel_progressDialog_LoginActivity">Estamos validando tus datos...</string>
+    <string name="authenticationOk_LoginActivity">Auntenticación OK</string>
+    <string name="authenticationFail_LoginActivity">Auntenticación Fail</string>
+    <string name="facebook_app_id">217938832053610</string>
+    <string name="fb_login_protocol_scheme">fb217938832053610</string>
+    <string name="id_cliente_oAuth">132609482320-s1aot5587chnt9brumqhsvpv1knuph9j.apps.googleusercontent.com</string>
+</resources>
